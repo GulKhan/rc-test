@@ -10,7 +10,7 @@ View the app at
 
 To see test results run:
 
-> npm test
+> npm test a
 
 
 All tests are currently in index.test.js
